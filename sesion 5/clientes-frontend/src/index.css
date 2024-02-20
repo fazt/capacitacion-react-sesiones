@@ -1,0 +1,8 @@
+form input, form label {
+    display: block;
+}
+
+form {
+    background: skyblue;
+    padding: 20px;
+}
